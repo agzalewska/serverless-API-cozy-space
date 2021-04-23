@@ -1,4 +1,4 @@
-[
+const items = [
   {
     id: 'rec5sOFh0qMAJWdxu',
     name: 'Woodrow 6-Drawer Dresser',
