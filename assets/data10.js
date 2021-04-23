@@ -2956,3 +2956,5 @@ const items = [
     colors: ['#f5efdc', '#0000ff', '#ff0000'],
   },
 ];
+
+module.exports = items;
