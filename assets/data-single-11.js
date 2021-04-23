@@ -1,7 +1,7 @@
 const items = {
   id: 'recHSu3wbLCT70zAn',
   name: 'Upholstered Sofa Bench',
-  image: [
+  images: [
     {
       id: 'attQfAhqLUDmfxAzR',
       url:
