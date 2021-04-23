@@ -23,11 +23,11 @@ exports.handler = async (event, context, cb) => {
         featured,
         colors,
       } = product.fields;
-      // const images = image[0].url;
+      const images = image[0].url;
       return {
         id,
         name,
-        image,
+        images,
         price,
         category,
         reviews,
