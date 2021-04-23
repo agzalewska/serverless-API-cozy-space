@@ -19,18 +19,20 @@ exports.handler = async (event, context, cb) => {
         category,
         company,
         shipping,
+        description,
       } = product.fields;
-      const url = image[0].url;
+      const image = image[0].url;
       return {
         id,
         name,
-        url,
+        image,
         price,
         category,
         reviews,
         stock,
         company,
         shipping,
+        description,
       };
     });
     return {
