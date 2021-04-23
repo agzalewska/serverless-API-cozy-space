@@ -172,6 +172,7 @@ const items = [
     shipping: true,
     description:
       'Amalia kitchen counter stools have a modern style to its unique frame with its curved leg angles and 360° swivel seat',
+    featured: true,
     colors: ['#f5efdc', '#000'],
   },
   {
@@ -186,6 +187,7 @@ const items = [
     company: 'Ikea',
     description:
       "Extra-large sofa bed that's the perfect addition to your small space. Features a legless design with pin-tucked recycled leather cushions that are padded for extra comfort.",
+    featured: true,
     colors: ['#f5efdc', '#000'],
   },
   {
@@ -216,6 +218,7 @@ const items = [
     shipping: true,
     description:
       "Extra-large sofa bed that's the perfect addition to your small space. Features a legless design with pin-tucked recycled leather cushions that are padded for extra comfort. Inner metal structure allows the sofa to sit upright, half-reclined or completely flat, perfect for lounging around or getting a full night's sleep.",
+    featured: true,
     colors: ['#f5efdc', '#ff0000'],
   },
   {
@@ -231,7 +234,7 @@ const items = [
     shipping: true,
     description:
       'Elegantly modern coffee table featuring a round metal tabletop in a brushed, antique brass finish, topping mango wood legs with tapering dowel construction for a mid-century modern-inspired design. This custom furniture piece will be made to order just for you. Assembly required.',
-    featured: true,
+    featured: false,
     colors: ['#0000ff', '#ff0000', '#00ff00', '#000'],
   },
   {
@@ -246,7 +249,7 @@ const items = [
     company: 'Ikea',
     description:
       'Fully refurbished vintage armchair, originally designed by Magnus Olesen Denmark circa 1960. Features a solid rosewood construction with a deep wool-blend cushion and back.',
-    featured: true,
+    featured: false,
     colors: ['#ff0000', '#000', '#0000ff'],
   },
   {
