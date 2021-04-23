@@ -26,7 +26,7 @@ exports.handler = async (event, context, cb) => {
       return {
         id,
         name,
-        url,
+        image,
         price,
         category,
         reviews,
